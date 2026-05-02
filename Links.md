@@ -3,6 +3,10 @@
 
 
 ### 📅 2026-05-02 16:31 (IR Time)
+- 📥 **[StormDNS_Client_Windows_ARM64.zip](https://github.com/Sepehr20mg10/sandbox/raw/main/dl/StormDNS_Client_Windows_ARM64.zip)**
+
+
+### 📅 2026-05-02 16:31 (IR Time)
 - 📥 **[StormDNS_Client_Windows_AMD64.zip](https://github.com/Sepehr20mg10/sandbox/raw/main/dl/StormDNS_Client_Windows_AMD64.zip)**
 
 
