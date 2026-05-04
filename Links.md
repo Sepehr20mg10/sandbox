@@ -2,6 +2,14 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-05-04 18:38 (IR Time)
+- 📥 **[AdsPower-Global-8.4.3-x64.exe.zip](https://github.com/Sepehr20mg10/sandbox/raw/main/dl/AdsPower-Global-8.4.3-x64.exe.zip)**
+- 📥 **[AdsPower-Global-8.4.3-x64.exe.z01](https://github.com/Sepehr20mg10/sandbox/raw/main/dl/AdsPower-Global-8.4.3-x64.exe.z01)**
+- 📥 **[AdsPower-Global-8.4.3-x64.exe.z02](https://github.com/Sepehr20mg10/sandbox/raw/main/dl/AdsPower-Global-8.4.3-x64.exe.z02)**
+- 📥 **[AdsPower-Global-8.4.3-x64.exe.z03](https://github.com/Sepehr20mg10/sandbox/raw/main/dl/AdsPower-Global-8.4.3-x64.exe.z03)**
+- 📥 **[AdsPower-Global-8.4.3-x64.exe.zip](https://github.com/Sepehr20mg10/sandbox/raw/main/dl/AdsPower-Global-8.4.3-x64.exe.zip)**
+
+
 ### 📅 2026-05-02 19:29 (IR Time)
 - 📥 **[GooseRelayVPN-HN-1.0.1-arm64-v8a-release.apk](https://github.com/Sepehr20mg10/sandbox/raw/main/dl/GooseRelayVPN-HN-1.0.1-arm64-v8a-release.apk)**
 
